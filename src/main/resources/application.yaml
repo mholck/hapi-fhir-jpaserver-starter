@@ -56,7 +56,7 @@ hapi:
     ### This flag when enabled to true, will avail evaluate measure operations from CR Module.
     ### Flag is false by default, can be passed as command line argument to override.
     cr:
-      enabled: false
+      enabled: true
 
     cdshooks:
       enabled: true
